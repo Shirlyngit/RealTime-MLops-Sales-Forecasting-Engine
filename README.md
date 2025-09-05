@@ -1,4 +1,4 @@
-# Astro Sales Forecasting MLOps Platform
+# RealTime Sales Forecasting MLOps Platform
 
 ## Overview
 
